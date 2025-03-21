@@ -1,0 +1,7 @@
+Section,Disease_Name,ICD10_Code,Description,Causes,Clinical_Features,Differential_Diagnosis,Investigations,Management,Prevention,Classification,Treatment_Details
+1.1.1,Anaphylactic Shock,T78.2,,,,,,,,,
+1.1.2,Hypovolaemic Shock,R57.1,,,,,,,,,
+1.1.4,Fluids and Electrolytes Imbalances,E87.8,,,,,,,,,
+1.4.1,IV Fluid management in children,E87.8,,,,,,,,,
+1.1.5,Febrile Convulsions,R56,,,,,,,,,
+1.1.6,Hypoglycaemia,E16.2,,,,,,,,,
